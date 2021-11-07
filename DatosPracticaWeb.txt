@@ -1,0 +1,11 @@
+[{
+        "id": 1,
+        "autor": "Sami Marhaoui Bennij",
+        "titulo": "AQUA",
+        "srcimg": "https://github.com/SamiBennij/WEBSAMI.git",
+        "alt": "La web es d'una empresa ONG que intenta ajudar en la vida al mar i en millorar la                   vida al planeta terra, reduint emissions o creant lleis que controlin als
+                 vaixells industrials",
+        "texto": "Pàgina web per a informar a la gent de que el mar necessita que el cuidin",
+        "url": "https://github.com/SamiBennij/WEBSAMI.git"
+    }
+]
